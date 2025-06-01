@@ -35,7 +35,7 @@
       <section id="posts">
         <h2>Posts</h2>
 
-        <article>
+  <article>
           <h3>Mr. Whiskers' First Day Home</h3>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
@@ -49,37 +49,37 @@
             quidem voluptatum quas. Quisquam quod, voluptates, quae, quos
             quibusdam dolorum quia nemo repudiandae quidem voluptatum quas.
           </p>
-        </article>
-        <article>
-          <h3>Mr. Whiskers' First Bath</h3>
-          <p>
+  </article>
+  <article>
+    <h3>Mr. Whiskers' First Bath</h3>
+     <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
             quod, voluptates, quae, quos quibusdam dolorum quia nemo repudiandae
             quidem voluptatum quas. Quisquam quod, voluptates, quae, quos
             quibusdam dolorum quia nemo repudiandae quidem voluptatum quas.
-          </p>
-          <p>
+     </p>
+     <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
             quod, voluptates, quae, quos quibusdam dolorum quia nemo repudiandae
             quidem voluptatum quas. Quisquam quod, voluptates, quae, quos
             quibusdam dolorum quia nemo repudiandae quidem voluptatum quas.
-          </p>
-        </article>
-        <article>
-          <h3>Mr. Whiskers' First Birthday Party</h3>
-          <p>
+     </p>
+  </article>
+  <article>
+    <h3>Mr. Whiskers' First Birthday Party</h3>
+    <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
             quod, voluptates, quae, quos quibusdam dolorum quia nemo repudiandae
             quidem voluptatum quas. Quisquam quod, voluptates, quae, quos
             quibusdam dolorum quia nemo repudiandae quidem voluptatum quas.
-          </p>
-          <p>
+    </p>
+    <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
             quod, voluptates, quae, quos quibusdam dolorum quia nemo repudiandae
             quidem voluptatum quas. Quisquam quod, voluptates, quae, quos
             quibusdam dolorum quia nemo repudiandae quidem voluptatum quas.
-          </p>
-        </article>
+    </p>
+  </article>
       </section>
     </main>
     <footer>
